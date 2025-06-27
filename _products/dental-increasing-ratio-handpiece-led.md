@@ -1,0 +1,27 @@
+---
+title: Dental Increasing 1:5 ratio Handpiece LED Fiber Optic Push Button Contra Angle 4 Spray Autochuck For NSK KAVO Electric Motor
+price: '102.70'
+price_original: '205.40'
+currency: USD
+discount: 50%
+rating: 4.5
+volume: 96
+image: Sd908fdf8b3624a698215368380863b1cA.jpg
+images:
+  - Sd908fdf8b3624a698215368380863b1cA.jpg
+  - S8ecb53ec7e8547ffa24d13684b494a4bc.jpg
+  - S04c37ece88174b478acff96e4570c5b5r.jpg
+  - Sce6fb9e38cd44791a7ba1cc149fb4cd8p.jpg
+  - S1d0ec5fb4c4e4ef6a86472e6bfc1d55bx.jpg
+  - S96c73177621d4e2484e1ae615ffd4e0ft.jpg
+video: 1100090045767.mp4
+categories:
+  - name: Beauty & Health
+    slug: beauty-health
+  - name: Dental Supplies
+    slug: dental-supplies
+slug: dental-increasing-ratio-handpiece-led
+encode: ooV2CmE
+lang: en
+---
+  
