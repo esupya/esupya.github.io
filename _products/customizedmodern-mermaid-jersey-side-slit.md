@@ -1,0 +1,27 @@
+---
+title: CustomizedModern Mermaid Jersey Side Slit Wedding Dresses Woman Court Train High Collar Lace Full Sleeves Bridal Gowns with Back
+price: '169.87'
+price_original: '171.59'
+currency: USD
+discount: 1%
+rating: 5
+volume: 67
+image: S26a57c3a5fb4493eaea64227cb1b3fc3W.jpg
+images:
+  - S26a57c3a5fb4493eaea64227cb1b3fc3W.jpg
+  - Sf801c0bb50824257a5b025a47fc5ca4dU.jpg
+  - S6bde51c8e51f48989aa58b50426ee26fs.jpg
+  - S9da6e7fcd1b34745af6960ae2430f21cD.jpg
+  - S02f699ed4c2941f7ba510386320a1220U.jpg
+  - Sdcbba57938d144d99b1fc321e1aa6c546.jpg
+video: ''
+categories:
+  - name: Weddings & Events
+    slug: weddings-events
+  - name: Wedding Dresses
+    slug: wedding-dresses
+slug: customizedmodern-mermaid-jersey-side-slit
+encode: oDbaQ9C
+lang: en
+---
+  
