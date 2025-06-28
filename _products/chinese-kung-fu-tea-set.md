@@ -1,0 +1,27 @@
+---
+title: Chinese Kung Fu Tea Set, Handmade Yixing Clay Teapot, Deep Well Gem, Green Mud, Yang Xian Sifang, 340ml
+price: '180.42'
+price_original: '240.56'
+currency: USD
+discount: 25%
+rating: 4.5
+volume: 66
+image: S83e52cb1c8834413be3dd63da2c279bc3.jpg
+images:
+  - S83e52cb1c8834413be3dd63da2c279bc3.jpg
+  - Se750c0ec699e43c981c0425354d2059aD.jpg
+  - Sf10eb19751e64122ac4fa67fec2b4428j.jpg
+  - Sfed6bfa58d96467e8ad0a91a2fb9ab0fl.jpg
+  - S3715c7fc7da143bda09f0da5bbf2d5e2j.jpg
+  - Sc82811f1b62f4d5bbbe1565d16650024o.jpg
+video: 1100156707922.mp4
+categories:
+  - name: Home & Garden
+    slug: home-garden
+  - name: Kitchen,Dining & Bar
+    slug: kitchen-dining-bar
+slug: chinese-kung-fu-tea-set
+encode: omcYcgm
+lang: en
+---
+  
