@@ -1,0 +1,26 @@
+---
+title: High Quality Rectangle Pedicure Spa Bowl with Foot Massager for Home and SalonChair Use
+price: '879.83'
+price_original: '879.83'
+currency: USD
+discount: ''
+rating: 5
+volume: 76
+image: S391d3fc951794988a69363fcde41eaeat.jpg
+images:
+  - S391d3fc951794988a69363fcde41eaeat.jpg
+  - S2c61bcce0acb4be598efb8fd4db0153fZ.jpg
+  - Se00f7319896649a2acdb48b332969cde7.jpg
+  - Sfaa9f4c535164dea85a177e4c96b8437p.jpg
+  - S57260fbd3a5242b68187ceb4c23ac7f6b.jpg
+video: 4000245624088.mp4
+categories:
+  - name: Tools
+    slug: tools
+  - name: Tool Parts
+    slug: tool-parts
+slug: high-quality-rectangle-pedicure-spa
+encode: oFIGvfc
+lang: en
+---
+  
