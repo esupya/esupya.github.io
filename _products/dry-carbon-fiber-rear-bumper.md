@@ -1,19 +1,19 @@
 ---
-title: Dry Carbon Fiber Rear Bumper Side Splitter Apron for BMW F80 M3 F82 F83 M4 2014 - 2020
-price: '99.27'
-price_original: '135.99'
+title: Dry Carbon Fiber Rear Bumper Lip Diffuser Spoiler Side Splitter Lip for BMW 4 Series G26 M Sport Sedan 2020+ FRP Car Accessories
+price: '212.55'
+price_original: '250.06'
 currency: USD
-discount: 27%
-rating: 5
-volume: 70
-image: HTB1i.2AX1UXBuNjt_XBq6xeDXXaE.jpg
+discount: 15%
+rating: 4.5
+volume: 93
+image: S920c34491eee4366a2df2abdcadae2ee3.jpg
 images:
-  - HTB1i.2AX1UXBuNjt_XBq6xeDXXaE.jpg
-  - HTB1ARqCpH5YBuNjSspoq6zeNFXae.jpg
-  - HTB1i_ZRhiCYBuNkHFCcq6AHtVXag.jpg
-  - HTB1llGCpH5YBuNjSspoq6zeNFXao.jpg
-  - HTB12GJ6pHGYBuNjy0Foq6AiBFXaS.jpg
-  - HTB1j6.8hcuYBuNkSmRyq6AA3pXaM.jpg
+  - S920c34491eee4366a2df2abdcadae2ee3.jpg
+  - Sf3301bf7720b4e93b06acd9396501478U.jpg
+  - Sf6a55f916abb41d6bc82146ca73fe321U.jpg
+  - Sd4affb7d21a847c6960e650abae61540U.jpg
+  - S6dc824152e1449a7b73a8aaa6a01860fa.jpg
+  - Sf0cd8b5437e54b859b0136e7900ba0d3y.jpg
 video: ''
 categories:
   - name: Automobiles, Parts & Accessories
@@ -21,7 +21,7 @@ categories:
   - name: Exterior Parts
     slug: exterior-parts
 slug: dry-carbon-fiber-rear-bumper
-encode: oFbE2KS
+encode: oFF75Ai
 lang: en
 ---
   
