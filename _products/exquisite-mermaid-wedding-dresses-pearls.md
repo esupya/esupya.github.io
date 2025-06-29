@@ -1,0 +1,27 @@
+---
+title: Exquisite Mermaid Wedding Dresses Pearls Beaded Feather Sweetheart Bride Dress Detachable Sweep Train Bridal Dress Customized
+price: '250.89'
+price_original: '285.10'
+currency: USD
+discount: 12%
+rating: 4
+volume: 95
+image: S9b3008339a254deb976495733f2c746by.jpg
+images:
+  - S9b3008339a254deb976495733f2c746by.jpg
+  - S4f0ac9ec86204eb08ee41d18ca122afew.jpg
+  - Sbc9dc1ae6dc045b1bb8263a5b91fede55.jpg
+  - S8a4660818e654ba192f9d310e4c2d46dZ.jpg
+  - Sf3a1844bf6104dc38a73d2e69a07a129x.jpg
+  - Se19ea624114b42b1b6c4781e9f678083E.jpg
+video: ''
+categories:
+  - name: Weddings & Events
+    slug: weddings-events
+  - name: Wedding Dresses
+    slug: wedding-dresses
+slug: exquisite-mermaid-wedding-dresses-pearls
+encode: olOVfQS
+lang: en
+---
+  
