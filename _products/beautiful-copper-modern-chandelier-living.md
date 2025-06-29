@@ -1,0 +1,27 @@
+---
+title: Beautiful Copper Modern Chandelier Living Crystal Lamp AC110V 220V Long Dining Cristal Hanging Lights
+price: '1332.04'
+price_original: '1930.50'
+currency: USD
+discount: 31%
+rating: 4
+volume: 74
+image: Sd7881e43a98d4be6a18467b9625bf27eQ.jpg
+images:
+  - Sd7881e43a98d4be6a18467b9625bf27eQ.jpg
+  - S6e97451d88274c99a57b2909d2269a943.jpg
+  - S281ed2c5af67406ea42022142c1ec9db4.jpg
+  - Sfcb1e88a20d74a0f9c8284051be0d36cT.jpg
+  - S9775d1e9ddb54a8c9442dc823af02c71y.jpg
+  - Sce84e19de7734ec79cec1c51129d89d1v.jpg
+video: ''
+categories:
+  - name: Lights & Lighting
+    slug: lights-lighting
+  - name: Indoor Lighting
+    slug: indoor-lighting
+slug: beautiful-copper-modern-chandelier-living
+encode: optGwmw
+lang: en
+---
+  
