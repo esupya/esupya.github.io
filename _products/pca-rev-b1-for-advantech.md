@@ -1,19 +1,19 @@
 ---
-title: PCA-6153 Rev.B1 For Advantech Industrial Control Motherboard
-price: '102.85'
-price_original: '135.33'
+title: PCA-6276 REV.B1 For Advantech Industrial Motherboard Before Shipment Perfect Test PCA-6276VE
+price: '106.57'
+price_original: '140.22'
 currency: USD
 discount: 24%
-rating: 4
-volume: 65
-image: Sd60797b817a14abc9ee2e372ac731f1a4.jpg
+rating: 4.5
+volume: 54
+image: Se408b90c075d449485961c890df076e1X.jpg
 images:
-  - Sd60797b817a14abc9ee2e372ac731f1a4.jpg
-  - S468b363dcc464f11b462b21f9c5e4961Y.jpg
-  - S7664fbd551c049f9a63c14b93e7e7a782.jpg
-  - S89d6be267950441195ff9bd656d5f48bb.jpg
-  - S01bc829cc0d94c82a8260d17cb254504o.jpg
-  - S8b134c4836d54b80a8239764139e422bm.jpg
+  - Se408b90c075d449485961c890df076e1X.jpg
+  - S37809fdeb2d8463383584ff138637f2a9.jpg
+  - S77194c807f1d4424aea0b1318efcd5a7I.jpg
+  - S1b13c6bba9884558bcc2dd59359140740.jpg
+  - S36ab7f3689f146818d2f54ec1f0818ea7.jpg
+  - Sca918c824536416a912c1a2246f92dccW.jpg
 video: ''
 categories:
   - name: Computer & Office
@@ -21,7 +21,7 @@ categories:
   - name: Servers & Industrial Computer
     slug: servers-industrial-computer
 slug: pca-rev-b1-for-advantech
-encode: opK8hOi
+encode: oovApm4
 lang: en
 ---
   
