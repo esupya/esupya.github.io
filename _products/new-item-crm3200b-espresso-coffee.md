@@ -1,0 +1,1 @@
+Jumlah karakter maksimal 1800, minimal 600
