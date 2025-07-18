@@ -1,0 +1,1 @@
+Jangan menghasilkan konten berbahaya atau melanggar aturan platform
