@@ -1,0 +1,77 @@
+# Site Settings
+title: "Esupya"
+description: "Honest car parts and accessories reviews from automotive experts"
+url: "https://esupya.github.io"
+baseurl: ""
+language: "en"
+timezone: Asia/Jakarta
+
+# Author
+author:
+  name: "Alex Rider"
+  bio: "Automotive Expert with 12+ years experience"
+  email: "contact@esupya.github.io"
+
+disclosure: "This article contains affiliate links. If you make a purchase through these links, I may earn a commission at no additional cost to you. I only recommend products I believe in."
+
+# Build Settings
+markdown: kramdown
+permalink: pretty
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-archives
+
+# Pagination
+paginate: 12
+paginate_path: "/page:num/"
+
+# Archives (for categories & tags)
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layouts:
+    category: category
+    tag: tag
+  permalinks:
+    category: /categories/:name
+    tag: /tags/:name
+
+# Defaults
+collections:
+  pages:
+    output: true
+    permalink: /:name/
+
+defaults:
+  - scope:
+      path: "_posts"
+      type: "posts" 
+    values:
+      layout: "post"
+  - scope:
+      path: "_pages"
+      type: "pages" 
+    values:
+      layout: "page"
+
+# Exclude
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - .git
+  - .gitignore
+
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layouts:
+    category: category
+    tag: tag
+  permalinks:
+    category: /categories/:name/
+    tag: /tags/:name/
